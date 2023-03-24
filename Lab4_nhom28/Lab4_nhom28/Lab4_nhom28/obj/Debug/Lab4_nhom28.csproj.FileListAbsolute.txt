@@ -1,0 +1,11 @@
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\bin\Debug\Lab4_nhom28.exe.config
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\bin\Debug\Lab4_nhom28.exe
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\bin\Debug\Lab4_nhom28.pdb
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\obj\Debug\Lab4_nhom28.csproj.AssemblyReference.cache
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\obj\Debug\Lab4_nhom28.FormLogIn.resources
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\obj\Debug\Lab4_nhom28.Home.resources
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\obj\Debug\Lab4_nhom28.Properties.Resources.resources
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\obj\Debug\Lab4_nhom28.csproj.GenerateResource.cache
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\obj\Debug\Lab4_nhom28.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\obj\Debug\Lab4_nhom28.exe
+D:\Codes\C#\Demo\Lab4_nhom28\Lab4_nhom28\obj\Debug\Lab4_nhom28.pdb
